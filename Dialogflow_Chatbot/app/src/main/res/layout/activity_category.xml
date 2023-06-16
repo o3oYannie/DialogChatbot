@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/boogieBack"
+        android:layout_width="373dp"
+        android:layout_height="685dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.506"
+        app:srcCompat="@drawable/boogieback" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_scholorchip"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="73dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="420dp"
+        android:layout_marginEnd="110dp"
+        android:background="@drawable/scholcategory"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.482"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.433" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_num"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="74dp"
+        android:layout_height="73dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginEnd="160dp"
+        android:background="@drawable/numcategory"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.412"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.457" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_club"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="77dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginTop="255dp"
+        android:background="@drawable/clubcategory"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.416"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.486" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_plan"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="83dp"
+        android:layout_height="79dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="450dp"
+        android:background="@drawable/plancategory"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.479"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.371" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_shuttle"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="84dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/shuttlecategory"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_dept"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginEnd="23dp"
+        android:background="@drawable/deptcategory"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.479" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_str"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="82dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="125dp"
+        android:background="@drawable/strucategory"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

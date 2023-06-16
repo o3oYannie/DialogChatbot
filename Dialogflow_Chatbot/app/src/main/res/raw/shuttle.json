@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shuttle-345107",
+  "private_key_id": "ba10186650269706b10ef2a1f807597a0f716cbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+9Qb2F6RMhNEt\nBH/QFBVK3eu20uh576LU4MGs/cGniaYTauwGOVoOetQEKXCEtDadXBjblucg+i6c\nNBmLXLsJmbO78uqGopfO3XTL2FJ7S/LyV8LJHPzcZULHO2Vn9R6mkKs55yWyav1S\nUJIDs8ONyExQ59WwiRCoO95z9hYVwhpEIG/KtdyxVlOsBf6Z96osP0wnruGLT/ab\n/TlC85c3DZwEaQHtIIhwcsD0pGgUSGicRbNw9vvGxWTtMx3k9d1fQosJs7tNydTh\nTw7vXhWhn4JHISs1VSDUJl69zUQmT3KiPeL7HP4yu5SOG/QjY5Yd6jd2uNSXF6mN\nXWG+OSQPAgMBAAECggEAOoVUG1IWf37Krh2tX+LvvZByPwa2yTu37r5sjGv+D66f\nD19asvOblkltNVNP0NN701DYq189OP2DEErlMzD5fxE0JFrnJdipZnO26gvDB1c4\nvq1HnCO+mHqN8wnQY4Ia4Rf/6ZBdnKauOK5JeUn7mbVzMe5CrkXrLWufmnElxoe8\nVq5dXanm80GVsh0VOpO1KsEzsB2xCmCByrey+lQl1laKk2vat3HQJgRO+A5AMEld\n52Oz79exfzzZ22IBPsBM+5eHqQf8j5fhYG510n39eMovHNeecQ4acZZPVxyRRS6+\n+e2KSlW2DTEaJ6ZqsoArGfQmsOHqB/aEd1+oKtJNTQKBgQDvzzNO6g0an8c/ZGpE\nqIO0b6dsD60qLEk6pVsMJxlDqp/Bjp1YSreY3J1bqS/RgWz/MWgSd9Q3w4EQ6gfU\nMJjvbsEVkA2se+Zil2dEgXX2qHg8wuaSgS1uv5iOEGzp/q7zujX2qKOVTEMxdGP7\nJoBQP1LlbvEs310PAuak+iO0HQKBgQDL2XphcVzg+dnCbyZRNL8/kBd9kyLSieqe\n1eoMmxOwM1KFNT/9FGK1SqBqn9anZ4uCmBz6t94UJ7Diyq+xeVqoXBBb7l6glxW5\nWDCHnvm0axOUeoNso1lD8dyyEyLscg0uGzgh9aTgJemJX7nXhHum3bo+N1C40XZ4\nVOPjc2apGwKBgQCBDPwLh6CtpzZOQvd9I0JdI4jxei4x98sgqEOq8o+B/pwiSWEb\nVnoe5Po5jX6SPBgv7KKY7atipu8Z7xdvdQeYMf3uYKs7GyIMBHYqQ5D7wAWUjT4P\nsTyF0M2EBgrWkZwMxTStHGuLuJKgVoZHbZy3kpxFo8Jd54XowiLkvUfhcQKBgGan\ndyyY9OfKinGSnZ4pTOIKgvnW3aNelos0OC/u7ERAJB82yKl+2ZJoKU5ofaVBzIyQ\nY4+ShkBqGHatETrzXMcJzact6/M9AlCa651wXlkPzwVniMVtoSdJJhV684xUhvSf\n+m2HkWbbULbAQQsaCVbns8FfA8R+nwVL4pMI6zrfAoGBAJs+QPvvRwAyGQsf3IEN\n4TohWH/Ox1W5Wtyj8OVZfRWFY/PaS1Mp/3RfzSQBFHuIbST7FFZwCoWiMYR4NVuD\nCvV8DOK/4GP+p3RrdP68YVWlxvFNt4PsgOuQOky61ljgOeFgcznTA060OrIMGwYF\n1T1bGumhTY6BZIsA0VrYSJ+T\n-----END PRIVATE KEY-----\n",
+  "client_email": "boogieshuttle@shuttle-345107.iam.gserviceaccount.com",
+  "client_id": "101309033361047208771",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boogieshuttle%40shuttle-345107.iam.gserviceaccount.com"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610966513794",
+    "project_id": "boogiebosal-3013c",
+    "storage_bucket": "boogiebosal-3013c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610966513794:android:892ce29fff8e321db76c9b",
+        "android_client_info": {
+          "package_name": "com.example.dialogflowchatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610966513794-lslf0t0nurul3cdikn94l7jc3qkliiih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiur66fbzNR13R_rK_AjlHXcRqF8CY6GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610966513794-lslf0t0nurul3cdikn94l7jc3qkliiih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

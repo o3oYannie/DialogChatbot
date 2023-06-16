@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scholarship-rrvi",
+  "private_key_id": "47c92728146187fc8f7ced1ba6d935c7b17d028d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3DokPPpwsDwE5\nt5BCkgRI1XbMdMnZHnwR9kczH4ESCryR487Fyx+YkKRYluVS7PzsyuJpwDJeSLT5\na3qIrOY0lWw12P1raMT9EECoNqKvtyv3ig7GxLjViTZx0YuS81B5c8zpxkYSDTcW\nmxAgWnKBz8Iemkdzp6SfLl5yaxNgIFJA2qhk1SemPr1l6wlCFAAoSnUBTM0vbNSC\nl79oHHeJMdW3GlvGeuncgFnWQj9fKgIMLSV6x/k2TztGW8pxtSY+CETbXVkQPogr\nahTvZtdZhxo/vgUvoXNWRhc5qprstEMb6Mp3helbpWqvD1SnQ7AQGduXxfWpvf2u\nwFNM47KhAgMBAAECggEAANakB/tovGgkfdDsjXIzVOkGx30hc7icMpuleIjolFi/\n5Q3zoKykzZ8hi1ASJHngA5ASrZUlhIWOpOfmrxS0skQXYAIy8hRjjQaSNIwT3R2m\niFaA2Lxk40pdQEHyUKsJJyal2UazCWAK/Wuwvzf4v692W3UtnehBcinl8hA3UJb0\ntQdpA1l8wLM189FBupS/ELEa++f06PeQEuzw/ug//5ko2d1vtQaYbVrSECzX/4X4\ndwddAfWJI8h4Rcwj/PYftpvcaxuGCHlc08tKLt1QxqM1i6cCNF24xDsGwVEJ+CY3\nhN5dLXpBgFtInivRmWRq+3vLi31JxtIH6OHScegWAQKBgQDvOvoXRkEa7Yose9Qp\nwZNbcOOQot5rz9kRcOPKAvL4H+rJSZTSrpRpNBmtvuta3YNeMosPd8u0k5PFkl5m\nsM12PqpoV5/GzeJPDKI2y7Cchq6Hb0xnC+Q7lioTXR1QZeFGWcCOK0WIxs8Jkxob\nqY8Jhn/FZtOTfe53VOnVPgNZaQKBgQDD44PnwfiF9iQQtHqPZjcn8IIDsQ8Oapg2\ntoKinQ30HrkrEm4+UR3F9zUJWdQ5Lj9rYMAp8fv/lJqiMY+X6YX2avcD9Rs6As0r\n0r26ME06tx92avcnRoJCP2Vokykw5GdLHBCKARdr/7MjWp8Yqar8paOEjt1H022H\nuRDDQhzweQKBgQC6IvlUAqXFfe10jySVGLi+/ScS8qZ83EvY9i1GkOTbinn0A/x3\nsL5o3NDeDx6wpIoCUPFCJ8OnzOu9XhV1cTtsNXYBmawH00myl/HfEL1qDKDfYAni\nY65BbqVuS5TzaVHOmybnd2Oy+H0+xeYaf+N7Vds0jL0ylVlmH/uQn5+bgQKBgFpP\n37WPCUyB0djdzI+meZFxYg/fpuhnnqvC83GTZSaCr646/ha/ATIPKiWYg66lMtoH\nrjDoft0znyNeJCzOnlOgtyfc7mONfRhSPeTEdia23MuUv0QdTtrKLa/MATaoZzMK\nyllF7Y1+QxHuquENAGcg2sW3tC90O9BSM3dCWONJAoGAMZg8bErADCwWwBrqaprX\nYS8fFI9Y0GfJfSJqP0nbJbFp7wTEPJnFMtz9Zw1eKlQ9tRjXFmwnKfiqd408VDpl\ncB/derXy7KLEubo9eozmKC0Su81pSmUB16SQ6XKbjHhODj5h8jqoZmsipnG1NlL4\n9hcZb6AegtoqWG8uTy2Lztk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "scholarship@scholarship-rrvi.iam.gserviceaccount.com",
+  "client_id": "104623591945520308474",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scholarship%40scholarship-rrvi.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plan-345107",
+  "private_key_id": "57321dd3a1ff24cd1d8f9c8485095f3556923a61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIScnCpI1sb4VI\nTKsg6kFk+VZV92kDPMqQ2m0xvkkE09izcWgNnYZrF20/8pKU5u8qoAhdaXrs4XDn\nFEt2V3FABWpVlGfHOPELV3DXu0sHwdWPChPqWLfwHyoWk0boCtRBA8cz65b9jtDh\nksUGZoSTNRGjfQhKBpxD/lNqI0I/ROn0dmoA6kqIS3UCpYLbIBeIjRNYQKGe2bAt\nYEXI9riBiybylrQZ2nrI3R1aU4Yfi9RFXtlTNzax1RsNVQmQOL0eO5fgpJaF9JkR\nOt6YlWp/DLYqtPhFRDuf+NL1bs6kEKMBNif1bI66bHkpsT6AnVNDE8DZq8rQyK4q\nyTQ3QehpAgMBAAECggEAF0k462fdR2up18+OH9wMcVRp3MHQlD9Hn9K9WkiwzZ5h\nte8r9VVIsP++xG4L68LzsIV9o3qlf4/wY/Vglqgw8wwOIlgIPsnYgISQioxse0Dm\nduRpj1f0Prco2goSdtz3c32gdeFgoyctEuTRAl797+1+GP9q7Mxa867IfPEPfTJt\nxfwhAsmFg/iALyunFYhxkdUk+a1952QiKZUQ37hFnKd/2vuImuFnJS1vFBeEoqU4\nzWbC7BeEEEe2xpel30MdoLtgbUvR/D/jeiAupF3H6puyu6jCa1lw+fwL4St+DOO8\nxCZrG0yXiOJGWh9xwvGhnzVIK/gcgtzjS+0xZOjp+QKBgQDmGzlVKEGzVziZMWiy\n2YQG6Iq+ezPu3wM/pVs84hQLRUtLNS+udiXPtEzXX9cLvv1mV6tg9Je8ZS91fvMK\nAMz+MROMIBjNtEsfTLeR7A4rz+VeZXvw+HXz08A6wfJEg/mfMqitCPusP+0LNX3j\nYsgvAPScQOLowyboVzG41gV4PQKBgQDe05SjUkyONFlTRPAQ7Z4tnF+SieD8B9Hz\n0zib82VUBLD/0yCUs+IGVG5DeXvDzNSq9ITxYLVHEb2MwCTeLwMGRuE3ShI3qA4c\nYamGaRU4dJr1e/Zq9wBMBEudlhnWh/toq/2sDamncpeC59w04sEMPbk6Obn3VqTO\n2pSZOmuHnQKBgEAnlvSHJMo7pywO+oHi40yJySUSdIhE5UL5d1aiMbRyvWtaiNC7\nYA9o1YO21N4RgdTm3IFLsIJ2M6Uun9RKJN06EZkf2cqAWfGAEi49AjZ04B5RbRzi\nKQCyKQY4zLMNmKsqFJ0pxAFiUVSutUqQX/+65HgsHxeGUXK13McL5LqBAoGBAM2y\nfe1C5P8FXkxbQE4wPKwYRbXN6E5gnbU7EHAOgUTNS+Ptr472e7miKWPKerEmnk/u\nh+cXgmDIBLYxDhe5SE58Eh3rF+QfFF+o3EkDKp7CLeZd9/2IZNLHyFICJXoAb9qR\noww4VJwKUcl7ZrG/fbxiImKYtY6ZgmyeJT1KS8eVAoGAHug3l30MHqT8REaqmYwY\n4Vr+ExA4bm4QWNibr+AC8kgnvZ5SYe5iM+XoVwxk6YGkSwCmlWAmE6nGkp0tdfyS\n3CU4L4y4h24KaoMNcgqWre4jaDMYCqydf8P9FjLioeJaGIokd4f6Maxmh4/dEyma\nAf1OWNKgG0G/7LZ0JFH5Byo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "boogieplan@plan-345107.iam.gserviceaccount.com",
+  "client_id": "106098286393305902397",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boogieplan%40plan-345107.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "club-345107",
+  "private_key_id": "92c4268b75abdcadbc167b24ee9d949c3add0de8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0qV4WiiSWCahf\nv6nG9YNW86WuxRuTN7ApEoMp6zfnuwt36Jqdr5W/8JJ2K/KuwUhY7F28kGM/L+ym\nBBhJUVf4bafFa70z9LgKMPTa2xBPzwowQYTqBsh3914id7Mlt+hl2r5ieyOmODGn\niEjjLT5M4iQ3z8WUHXEx9ElMbQOf/iyeA2Fy3hwSzqoovKnXEDZj7F+joGuh8kxw\ns2r5PyNrNv5phe6ngG8Hzh2CO2wrF3I3EQ9xv8vURfyCk+CYtlC/s2i0NRQny5wN\n4SHieywC99Xgewr9XuZgG7uYWtuTdqOnv3EoXhFLAUsspM7YXfJop5jq+rJ4AKkk\nmKUR6ho9AgMBAAECggEAT5A5oiaTp0o4j3aK8FcG0T/7i0U+eC7x05zWDBuN4u3i\nxpu3oFOIWWA7OHTxa5ou4Q6z14wlUVorWA/8nCmJWxz74ruot12CweY+p7YLcIKH\ng6oPPbvgBMl5+ScLTES6wkS8TQXbNOSRpa0lIHu38Mc1WSkVZD41MGFb+J8YFhju\nQZIeqDtsmJOm2hNr/hXrZpVy1YkSCBQjVktyP7z6F8PyVZ/VS0uyvic23vDOXpWF\nkLaSu4bPFLNFwxKWpOGfCDo8Y/yDziSfxPWZLRkmZ23z5XbaDP4r8ImdG72dnyq0\n1IQeNHD6TUzaGtXgItJuTsm+lriSYJyWxM7rTLl19wKBgQDlLQ42k0DpBS8pPgcO\nIbf1Qq9sCswYmBl/Rw3cwWJHx/c1bpmZfy+fcZwKRzcDGTTWIOg6vtaRNB/5asfg\nzT033EE8FH5dpUX73G4Iuih8yRdvXiO7QVvsbjWoMLyANpKOD8xT2/QT4f8RlGGi\nH01YYATakDD/yBjy6bH1IU4mlwKBgQDJzqT1ES+N8L7pX2DTwW0MpezAw+WTQf19\nzn2rGuERbzFhQOc062z3m5tBavXjWQMFweNHsWBQ99bolT3UitMF2MBS2+LeK0bB\nC6qGAQXtNNgk8y7QA1JSADfiNek/uPj/vcCmDxeWuVFGyEK4/FPBzH/EabSHnC8M\nBus+zCcUSwKBgEwl/GMF6ruCjXkWsyFu8sD7t24e6FIDt/UiluiTGSTgvLN0XHU0\nXY6NIVwI7a6J4ZSEuqVKY+E7gKRPZrq7d2voM4TTCmnzUJ2vUKB1up478x1+GkFO\nJk0ZEZshFoFDoM6zUSFMJH22yhn9Q7Oq0vhab0JwRte2lROhsw/QUTdhAoGAfGNF\no9Q69oc8dUYXvY3MtG4VVt+oQrL7Fy9OoEeKEJ/z1NkXabPuz1P3R0QxWTeFOGhA\nufDnyCBrM6LBoJ8M4N6v9KKZ3IzaKKUTL1O0Hnhi/aty4D4b4HVH/MN0CJXvzFpe\nQzysMnf5U+Kd1b2Ztqtg2WS6JJgtG4GsQGG/eK8CgYBmabsiYv9k49uv0WJ9e7Dv\nNZvTPeXPS//RZW9o6QRUpJXKh1W2CWpdrUpQ/3zYEPLi8sqEH6AEHu1Oqn4pb2xB\nepsfKBVzYOJ7O28rEaPnJ5EmXnj+enZlqTqz9aRFPRdyTts6pQGvZe7WekuPqg67\nxAPKKWtS+KaA6B/t1z5fhg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "boogieclub@club-345107.iam.gserviceaccount.com",
+  "client_id": "100714538010571336042",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boogieclub%40club-345107.iam.gserviceaccount.com"
+}

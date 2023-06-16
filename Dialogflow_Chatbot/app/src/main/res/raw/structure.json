@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "exalted-cogency-345107",
+  "private_key_id": "5f2816dfb458037f5525aab37c040bec8d49e553",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8KwVlEudMRml8\n8P3SBoHlCUtGM1MXpL3XCRJrAFnR2sREQRP+3Enf0hSrCfBePCKjG9REWOxKoNpe\nA2KOV8qraI5DDQw+5SD2Br/zfcXPGYiuNc+zwJWkhEioxcQc0lQ8QcsMjYOX4uqP\nAZGIO/NSGXjbuHhqMLITRd1vFFRRvhRmPI6zrxDk34ON5Ydnqg6ZjT58q7N61HIu\n/WfI9qgdW4vqd5lsYrFYo5ZwjWeNSr2AleTMOBWrCpIOVahKzo4at4FruXbK3+ep\nChoK/UlkaGYkt772+m6e5iucqYYPPMLmIf6kN3hI6IF203pLDbaIPOCaY4TxbbZV\np/8KBzChAgMBAAECggEAEYEkijWnGfHCai6uhAlaL9TsoVoQsKZBCUYlJhpVILgr\n0igmLKswPZ+oz8z3xQJt2/PQrC+EAsDCM6T3uANrfYTXWB44fYjZ5z0zQdrZShXn\nYMJtgRypJxHtwvKL1v0LfEQIGDG5dEmWFanZEJ34GZL4SuNXI1TGmhOhoO3YlrZx\noxOKvrylPThqIaiI/DEEpnm5c7pHrsZwGLZyLZtAvGGH7sUUCGJCED6F8eH1JFYA\nIXBl7fAgt7vw2kOc3YHPV8I9R7PIC+xFLoIPlGJVPtfth6VskL35gy4gZg/GRSef\nq8TBaccIuY+TF/38j3CsiuqKmoQ1g0bSnUKvIG5/uQKBgQDw4Uu94WRJwixYkEon\n2wImxvjFCBHMsdUXm8GQ3XTy+DCmGuMYthcnwx0KR7VomC14ga2KF9AHsRvxlUS1\nrnedz3bCoidYpjJ3VnghFd730w0hRE7RuMccwfcNPGndIdyE0D9MVpPFEe/QufLf\nX35RLCbabcTXTDfHK8NwOA5VmQKBgQDH+rIEGIftbmRGK9DPgI//pwUoqaFv8yqk\nDq26Ok9UuBCwD5rEhIuQiI1Y5f5pMQSqHdO/blEW+9oO8kiYaQJptjGh38lQccpG\nzE0Cj1Omy7XxNnih/TacT5KYOsaCPcQPpglcsEmoHWGmRi1wslPsJS9sGTJWI0s9\nDBPat+QISQKBgEoxerzfoZ4+Wp5kwxKHmKANBS7bD3B3DeWZqgNO0ujLnWBsQ6qm\n23b52AYElFHFHaxSdPtl3kOgP7UnfuRe+qT28+N7QpdBiaXMUnAOZoD61r56ZbSf\nL2UiMVA4XXspJN0br4N530YCAlXOEIrQxP2HlegNi2WtKjkEt8vm2DNxAoGAdy83\nd29zW5OGWbf1bCYQLGrLjU+D8qe3Sy2gZrQn4bMN5xB1yhfA4jQwIcJ5XRIk2IqM\nT7Qcyhjx/iRyFbvH/17ht7sbTUF0L7vFTfhD/827Mvam8MxsBr75/JZTBv5u4nCv\ndblvPK2+LA35OQhfMgd7eu6NbH7+cXTIRHuCgVkCgYEAvf/ZsatFgi0d+QAnnh41\nvMIbaMMI+AxR8eCiMrE7evL/hBuRX8/uv7cHDQkW+3PpkZsDXZMBpz0GCsWiyP8m\nzDevoFeUhau/+iI1or2tZKxthuVJWEhsGLUYhUg0MRNXp07yPTGYfmX2SmtCbCnm\n+Ns6seN66eB8UqAXkiBXM+o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "boogiestructure@exalted-cogency-345107.iam.gserviceaccount.com",
+  "client_id": "115845952108257533679",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boogiestructure%40exalted-cogency-345107.iam.gserviceaccount.com"
+}
